@@ -36,7 +36,9 @@ All exchanges are allowed. The best one are decentralized. We plan to implement 
 - Update to latest Zcash codebase
 - Finish rebranding
 
-BitcoinZ is unfinished and highly experimental. Use at your own risk.
+### Ports:
+RPC port: 1979
+P2P port: 1989
 
 Install
 -----------------
